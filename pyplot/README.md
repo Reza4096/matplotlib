@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://www.w3schools.com/lib/w3schools30.css">
+<link rel="stylesheet" href="w3schools30.css">
 
 <h2>Pyplot</h2>
 <p>Most of the Matplotlib utilities lies under the <code class="w3-codespan">pyplot</code> submodule,
